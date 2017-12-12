@@ -12,7 +12,7 @@
 <script>
 import axios from 'axios'
 import {ERR_OK} from 'api/config'
-import {recommendCarousel} from 'api/recommend'
+import {recommendCarousel} from 'api/api'
 
 
 export default {
@@ -21,7 +21,6 @@ export default {
   },
   methods:{
     _getRecommend(){
-      console.log(recommendCarousel)
       axios.get(recommendCarousel,{code:'0'}).then(function(res){
         console.log(res)
       }).catch(function(err){
