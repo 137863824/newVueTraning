@@ -13,22 +13,16 @@ import { recommendCarousel } from "api/api";
 
 import "common/js/swiper-3.2.7.min.js";
 
-let mySwiper = new Swiper(".swiper-container", {
-        direction: "horizontal",
-        loop: true,
-        autoplay: 3000,
-        autoplayDisableOnInteraction: false
-      });
 export default {
   data() {
     return {
-      
+      mySwiper: null
     };
   },
   created() {
     setTimeout(() => {
       this._getRecommend();
-      // this._swiper();
+      this._swiper();
     }, 20);
   },
   methods: {
@@ -45,19 +39,19 @@ export default {
           console.log(err);
         });
     },
-    // _swiper() {
-    //   mySwiper = new Swiper(".swiper-container", {
-    //     direction: "horizontal",
-    //     loop: true,
-    //     autoplay: 3000,
-    //     autoplayDisableOnInteraction: false
-    //   });
-    // }
+    _swiper() {
+      mySwiper = new Swiper(".swiper-container", {
+        direction: "horizontal",
+        loop: true,
+        autoplay: 3000,
+        autoplayDisableOnInteraction: false
+      });
+    }
   }
 };
 </script>
 <style scoped>
-@import "common/css/swiper-3.2.7.min.css";
+@import "../common/css/swiper-3.2.7.min.css";
 .swiper-containers {
   width: 100%;
   height: 6rem;

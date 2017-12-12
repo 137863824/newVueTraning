@@ -8,14 +8,19 @@ import fastclick from 'fastclick'
 import iview from 'iview'
 import 'iview/dist/styles/iview.css';
 import 'common/css/index.css'
+import VViewer from 'v-viewer'
+import VueLazyLoad from 'vue-lazyload'
 
 
 fastclick.attach(document.body)
 
 Vue.config.productionTip = false
 Vue.use(iview)
+Vue.use(VViewer)
 
-
+Vue.use(VueLazyLoad,{  //use方法可以穿一些参数
+  loading: require('common/image/hh.png')
+})
 
 
 

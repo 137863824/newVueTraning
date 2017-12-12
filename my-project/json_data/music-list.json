@@ -1,0 +1,1110 @@
+{
+  "code": 0,
+  "subcode": 0,
+  "message": "",
+  "default": 0,
+  "data": {
+    "lan": "all",
+    "mvlist": [{
+      "listennum": 22855,
+      "mv_id": 1426603,
+      "mvdesc": "兔瓦斯女孩们敲级可爱了",
+      "mvscore": 0,
+      "mvtitle": "Heart Shaker",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223119.gif",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 1040218,
+      "singer_mid": "001p0vF44ewiwB",
+      "singer_name": "TWICE",
+      "singerid": 1040218,
+      "singermid": "001p0vF44ewiwB",
+      "singername": "TWICE",
+      "singers": [{
+        "id": 1040218,
+        "mid": "001p0vF44ewiwB",
+        "name": "TWICE"
+      }],
+      "vid": "n00254qeelw"
+    }, {
+      "listennum": 310,
+      "mv_id": 1426939,
+      "mvdesc": "成龙再度诉说“英雄的经历”",
+      "mvscore": 0,
+      "mvtitle": "英雄故事 (《机器之血》电影主题曲)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223009.jpg",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 13,
+      "singer_mid": "000nmQ1v0JGExN",
+      "singer_name": "成龙",
+      "singerid": 13,
+      "singermid": "000nmQ1v0JGExN",
+      "singername": "成龙",
+      "singers": [{
+        "id": 13,
+        "mid": "000nmQ1v0JGExN",
+        "name": "成龙"
+      }],
+      "vid": "p0025pq1kjp"
+    }, {
+      "listennum": 7777,
+      "mv_id": 1426832,
+      "mvdesc": "袁娅维剖心献声催人泪下",
+      "mvscore": 0,
+      "mvtitle": "说散就散 (《前任3：再见前任》电影主题曲)",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/y00257obhi3_496_280/0",
+      "pub_date": "2017-12-12",
+      "publictime": "2017-12-12",
+      "singer_id": 36691,
+      "singer_mid": "00472DR10Ytv83",
+      "singer_name": "袁娅维",
+      "singerid": 36691,
+      "singermid": "00472DR10Ytv83",
+      "singername": "袁娅维",
+      "singers": [{
+        "id": 36691,
+        "mid": "00472DR10Ytv83",
+        "name": "袁娅维"
+      }],
+      "vid": "y00257obhi3"
+    }, {
+      "listennum": 0,
+      "mv_id": 1429205,
+      "mvdesc": "用这首超嗨EDM怼你不靠谱",
+      "mvscore": 0,
+      "mvtitle": "不靠谱",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223100.jpg",
+      "pub_date": "2017-12-12",
+      "publictime": "2017-12-12",
+      "singer_id": 11856,
+      "singer_mid": "003u8FLw0PnQ3E",
+      "singer_name": "王绎龙",
+      "singerid": 11856,
+      "singermid": "003u8FLw0PnQ3E",
+      "singername": "王绎龙",
+      "singers": [{
+        "id": 11856,
+        "mid": "003u8FLw0PnQ3E",
+        "name": "王绎龙"
+      }],
+      "vid": "p0025x3mv9q"
+    }, {
+      "listennum": 134,
+      "mv_id": 1426594,
+      "mvdesc": "Younha与pH-1合作曲，意境很美",
+      "mvscore": 0,
+      "mvtitle": "종이비행기",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223015.jpg",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 5413,
+      "singer_mid": "000TZRgQ2jGaZu",
+      "singer_name": "윤하",
+      "singerid": 5413,
+      "singermid": "000TZRgQ2jGaZu",
+      "singername": "윤하",
+      "singers": [{
+        "id": 5413,
+        "mid": "000TZRgQ2jGaZu",
+        "name": "윤하"
+      }, {
+        "id": 1104088,
+        "mid": "002Fo0Xg1bZbP8",
+        "name": "pH-1"
+      }],
+      "vid": "g0025c01s1n"
+    }, {
+      "listennum": 66,
+      "mv_id": 1418854,
+      "mvdesc": "陈斐《桑吉尔多》吉他弹唱教学",
+      "mvscore": 0,
+      "mvtitle": "《与音乐吉他小课堂》第19集 陈斐 | 《桑吉尔多》",
+      "picurl": "http://y.gtimg.cn/music/common/upload/uploadt_mv_recommend_conf/222921.jpg",
+      "pub_date": "2017-12-12",
+      "publictime": "2017-12-12",
+      "singer_id": 1159358,
+      "singer_mid": "000uquvM4NpWlM",
+      "singer_name": "陈斐",
+      "singerid": 1159358,
+      "singermid": "000uquvM4NpWlM",
+      "singername": "陈斐",
+      "singers": [{
+        "id": 1159358,
+        "mid": "000uquvM4NpWlM",
+        "name": "陈斐"
+      }],
+      "vid": "w0025cmggak"
+    }, {
+      "listennum": 30397,
+      "mv_id": 1426050,
+      "mvdesc": "孙燕姿唤醒记忆最美丽的那一刻",
+      "mvscore": 0,
+      "mvtitle": "天天年年",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/c0025w9y4ut_496_280/0",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 109,
+      "singer_mid": "001pWERg3vFgg8",
+      "singer_name": "孙燕姿",
+      "singerid": 109,
+      "singermid": "001pWERg3vFgg8",
+      "singername": "孙燕姿",
+      "singers": [{
+        "id": 109,
+        "mid": "001pWERg3vFgg8",
+        "name": "孙燕姿"
+      }],
+      "vid": "c0025w9y4ut"
+    }, {
+      "listennum": 1254,
+      "mv_id": 1426049,
+      "mvdesc": "郑源以“情”打动人",
+      "mvscore": 0,
+      "mvtitle": "白色裙边",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/q0025v4ybwv_496_280/0",
+      "pub_date": "2017-12-12",
+      "publictime": "2017-12-12",
+      "singer_id": 4715,
+      "singer_mid": "001e4pOU25pgzC",
+      "singer_name": "郑源",
+      "singerid": 4715,
+      "singermid": "001e4pOU25pgzC",
+      "singername": "郑源",
+      "singers": [{
+        "id": 4715,
+        "mid": "001e4pOU25pgzC",
+        "name": "郑源"
+      }],
+      "vid": "q0025v4ybwv"
+    }, {
+      "listennum": 44,
+      "mv_id": 1428258,
+      "mvdesc": "棉花糖带女友回家过圣诞",
+      "mvscore": 0,
+      "mvtitle": "Take It Back",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223020.jpg",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 1104128,
+      "singer_mid": "003T09nh37Pq4N",
+      "singer_name": "Marshmello",
+      "singerid": 1104128,
+      "singermid": "003T09nh37Pq4N",
+      "singername": "Marshmello",
+      "singers": [{
+        "id": 1104128,
+        "mid": "003T09nh37Pq4N",
+        "name": "Marshmello"
+      }],
+      "vid": "p0025zarnrh"
+    }, {
+      "listennum": 245,
+      "mv_id": 1426837,
+      "mvdesc": "《琅琊榜之风起长林》燃战曲",
+      "mvscore": 0,
+      "mvtitle": "清平愿 (《琅琊榜之风起长林》电视剧主题曲)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223023.jpg",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 15980,
+      "singer_mid": "0042v82i28rTJ9",
+      "singer_name": "多亮",
+      "singerid": 15980,
+      "singermid": "0042v82i28rTJ9",
+      "singername": "多亮",
+      "singers": [{
+        "id": 15980,
+        "mid": "0042v82i28rTJ9",
+        "name": "多亮"
+      }],
+      "vid": "r0025x5tulr"
+    }, {
+      "listennum": 17815,
+      "mv_id": 1413001,
+      "mvdesc": "南哥献唱《机智的监狱生活》",
+      "mvscore": 0,
+      "mvtitle": "Bravo, My Life! (《机智的监狱生活》韩剧插曲)",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/n00255t4voe_496_280/0",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 41671,
+      "singer_mid": "004F1CRG1uIdfX",
+      "singer_name": "에릭 남",
+      "singerid": 41671,
+      "singermid": "004F1CRG1uIdfX",
+      "singername": "에릭 남",
+      "singers": [{
+        "id": 41671,
+        "mid": "004F1CRG1uIdfX",
+        "name": "에릭 남"
+      }],
+      "vid": "n00255t4voe"
+    }, {
+      "listennum": 7,
+      "mv_id": 1426835,
+      "mvdesc": "个性魅嗓方泂镔小哥哥演唱画面",
+      "mvscore": 0,
+      "mvtitle": "结",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223029.jpg",
+      "pub_date": "2017-12-10",
+      "publictime": "2017-12-10",
+      "singer_id": 14441,
+      "singer_mid": "003POOYV32QfvZ",
+      "singer_name": "方泂镔",
+      "singerid": 14441,
+      "singermid": "003POOYV32QfvZ",
+      "singername": "方泂镔",
+      "singers": [{
+        "id": 14441,
+        "mid": "003POOYV32QfvZ",
+        "name": "方泂镔"
+      }],
+      "vid": "a0025e4e3h8"
+    }, {
+      "listennum": 141,
+      "mv_id": 1426834,
+      "mvdesc": "王子邱胜翊深情演技爆发",
+      "mvscore": 0,
+      "mvtitle": "我怎么可能与妳无关",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223045.jpg",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 23151,
+      "singer_mid": "002SZLLr1tXXqN",
+      "singer_name": "邱胜翊",
+      "singerid": 23151,
+      "singermid": "002SZLLr1tXXqN",
+      "singername": "邱胜翊",
+      "singers": [{
+        "id": 23151,
+        "mid": "002SZLLr1tXXqN",
+        "name": "邱胜翊"
+      }],
+      "vid": "g0025ns5vpi"
+    }, {
+      "listennum": 1082,
+      "mv_id": 1425543,
+      "mvdesc": "美国独立音乐人的心碎情歌",
+      "mvscore": 0,
+      "mvtitle": "Next To You",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/222634.jpg",
+      "pub_date": "2017-12-10",
+      "publictime": "2017-12-10",
+      "singer_id": 36649,
+      "singer_mid": "002UJ9P80GVwpA",
+      "singer_name": "Eli Lieb",
+      "singerid": 36649,
+      "singermid": "002UJ9P80GVwpA",
+      "singername": "Eli Lieb",
+      "singers": [{
+        "id": 36649,
+        "mid": "002UJ9P80GVwpA",
+        "name": "Eli Lieb"
+      }],
+      "vid": "w0025q5r18n"
+    }, {
+      "listennum": 1686,
+      "mv_id": 1420948,
+      "mvdesc": "懂得人生与爱的意义的青春剧",
+      "mvscore": 0,
+      "mvtitle": "Sunshine (《Andante》韩剧插曲)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/222648.jpg",
+      "pub_date": "2017-12-10",
+      "publictime": "2017-12-10",
+      "singer_id": 1103887,
+      "singer_mid": "004ZlXlq4Yu6JA",
+      "singer_name": "김이지",
+      "singerid": 1103887,
+      "singermid": "004ZlXlq4Yu6JA",
+      "singername": "김이지",
+      "singers": [{
+        "id": 1103887,
+        "mid": "004ZlXlq4Yu6JA",
+        "name": "김이지"
+      }],
+      "vid": "v0025t3ev37"
+    }, {
+      "listennum": 39,
+      "mv_id": 1426593,
+      "mvdesc": "这人声音有魔力，好听成这样",
+      "mvscore": 0,
+      "mvtitle": "Wet",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223049.jpg",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 173598,
+      "singer_mid": "003wTkNh0TLtqW",
+      "singer_name": "40",
+      "singerid": 173598,
+      "singermid": "003wTkNh0TLtqW",
+      "singername": "40",
+      "singers": [{
+        "id": 173598,
+        "mid": "003wTkNh0TLtqW",
+        "name": "40"
+      }],
+      "vid": "g0025jqgerd"
+    }, {
+      "listennum": 8,
+      "mv_id": 1428515,
+      "mvdesc": "Car, the gardenl与吴赫合作曲",
+      "mvscore": 0,
+      "mvtitle": "섬으로 가요",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223051.jpg",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 169162,
+      "singer_mid": "004a7CYz0P1bPM",
+      "singer_name": "카더가든",
+      "singerid": 169162,
+      "singermid": "004a7CYz0P1bPM",
+      "singername": "카더가든",
+      "singers": [{
+        "id": 169162,
+        "mid": "004a7CYz0P1bPM",
+        "name": "카더가든"
+      }, {
+        "id": 953086,
+        "mid": "004ZJC311ezp8e",
+        "name": "오혁"
+      }],
+      "vid": "u00253675rc"
+    }, {
+      "listennum": 1176,
+      "mv_id": 1425664,
+      "mvdesc": "迷幻有韵味的女声超好听",
+      "mvscore": 0,
+      "mvtitle": "For The Record",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/222650.jpg",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 41670,
+      "singer_mid": "002w17I21wgzIX",
+      "singer_name": "소피야",
+      "singerid": 41670,
+      "singermid": "002w17I21wgzIX",
+      "singername": "소피야",
+      "singers": [{
+        "id": 41670,
+        "mid": "002w17I21wgzIX",
+        "name": "소피야"
+      }],
+      "vid": "l0025q8kpaj"
+    }, {
+      "listennum": 0,
+      "mv_id": 1429196,
+      "mvdesc": "好听，但整个头结冰是什么操作？",
+      "mvscore": 0,
+      "mvtitle": "Come neve",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223054.jpg",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 8927,
+      "singer_mid": "003aOZCA4ZJshy",
+      "singer_name": "Marco Mengoni",
+      "singerid": 8927,
+      "singermid": "003aOZCA4ZJshy",
+      "singername": "Marco Mengoni",
+      "singers": [{
+        "id": 8927,
+        "mid": "003aOZCA4ZJshy",
+        "name": "Marco Mengoni"
+      }, {
+        "id": 42081,
+        "mid": "000WUX9e4W4kka",
+        "name": "Giorgia"
+      }],
+      "vid": "e0025xx0mwn"
+    }, {
+      "listennum": 45,
+      "mv_id": 1426600,
+      "mvdesc": "这才是充满男人味的磁性魅嗓！",
+      "mvscore": 0,
+      "mvtitle": "너에 ( You Are)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/223057.jpg",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 203359,
+      "singer_mid": "001sFAdI2bvPVj",
+      "singer_name": "윤성기",
+      "singerid": 203359,
+      "singermid": "001sFAdI2bvPVj",
+      "singername": "윤성기",
+      "singers": [{
+        "id": 203359,
+        "mid": "001sFAdI2bvPVj",
+        "name": "윤성기"
+      }],
+      "vid": "p0025k472rc"
+    }, {
+      "listennum": 1256601,
+      "mv_id": 1407598,
+      "mvdesc": "泫雅回归展现超特级性感！",
+      "mvscore": 0,
+      "mvtitle": "Lip & Hip",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/220085.gif",
+      "pub_date": "2017-12-04",
+      "publictime": "2017-12-4",
+      "singer_id": 10415,
+      "singer_mid": "0040tgjy2qm5bG",
+      "singer_name": "현아",
+      "singerid": 10415,
+      "singermid": "0040tgjy2qm5bG",
+      "singername": "현아",
+      "singers": [{
+        "id": 10415,
+        "mid": "0040tgjy2qm5bG",
+        "name": "현아"
+      }],
+      "vid": "e0025ustnrd"
+    }, {
+      "listennum": 529881,
+      "mv_id": 1407838,
+      "mvdesc": "李荣浩联手张靓颖献唱《女儿国》",
+      "mvscore": 0,
+      "mvtitle": "女儿国 (《西游记女儿国》电影主题曲)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/uploadt_mv_recommend_conf/220581.jpg",
+      "pub_date": "2017-12-06",
+      "publictime": "2017-12-6",
+      "singer_id": 4607,
+      "singer_mid": "000aw4WC2EQYTv",
+      "singer_name": "张靓颖",
+      "singerid": 4607,
+      "singermid": "000aw4WC2EQYTv",
+      "singername": "张靓颖",
+      "singers": [{
+        "id": 4607,
+        "mid": "000aw4WC2EQYTv",
+        "name": "张靓颖"
+      }, {
+        "id": 60505,
+        "mid": "000aHmbL2aPXWH",
+        "name": "李荣浩"
+      }],
+      "vid": "n0025ujfoin"
+    }, {
+      "listennum": 189197,
+      "mv_id": 1416119,
+      "mvdesc": "嗨爆节奏加超强舞蹈，躁起！",
+      "mvscore": 0,
+      "mvtitle": "1000",
+      "picurl": "http://y.gtimg.cn/music/common/upload/uploadt_mv_recommend_conf/221786.jpg",
+      "pub_date": "2017-12-07",
+      "publictime": "2017-12-7",
+      "singer_id": 13317,
+      "singer_mid": "0047GYMg409yLl",
+      "singer_name": "N.E.R.D",
+      "singerid": 13317,
+      "singermid": "0047GYMg409yLl",
+      "singername": "N.E.R.D",
+      "singers": [{
+        "id": 13317,
+        "mid": "0047GYMg409yLl",
+        "name": "N.E.R.D"
+      }, {
+        "id": 35018,
+        "mid": "003rLetL0AcGNH",
+        "name": "Future"
+      }],
+      "vid": "u0025npmklo"
+    }, {
+      "listennum": 772849,
+      "mv_id": 1395858,
+      "mvdesc": "走心的浓烈的“嘉尔式”Hip-hop",
+      "mvscore": 0,
+      "mvtitle": "OKAY",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/218034.jpg",
+      "pub_date": "2017-11-30",
+      "publictime": "2017-11-30",
+      "singer_id": 179603,
+      "singer_mid": "00216fJA496xQG",
+      "singer_name": "王嘉尔",
+      "singerid": 179603,
+      "singermid": "00216fJA496xQG",
+      "singername": "王嘉尔",
+      "singers": [{
+        "id": 179603,
+        "mid": "00216fJA496xQG",
+        "name": "王嘉尔"
+      }],
+      "vid": "b0025ekt3d5"
+    }, {
+      "listennum": 884308,
+      "mv_id": 1354369,
+      "mvdesc": "动画里的爱情更触动人心",
+      "mvscore": 0,
+      "mvtitle": "烟火 (《烟花》电影同名主题曲)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/129372.jpg",
+      "pub_date": "2017-11-24",
+      "publictime": "2017-11-24",
+      "singer_id": 170650,
+      "singer_mid": "001nmqIV2nx5Hu",
+      "singer_name": "DAOKO",
+      "singerid": 170650,
+      "singermid": "001nmqIV2nx5Hu",
+      "singername": "DAOKO",
+      "singers": [{
+        "id": 170650,
+        "mid": "001nmqIV2nx5Hu",
+        "name": "DAOKO"
+      }, {
+        "id": 49236,
+        "mid": "000LExWa0hMj4m",
+        "name": "米津玄師"
+      }],
+      "vid": "r0025xqz0gr"
+    }, {
+      "listennum": 154094,
+      "mv_id": 1417851,
+      "mvdesc": "小Sia与雪怪都敲级可爱了",
+      "mvscore": 0,
+      "mvtitle": "Ho Ho Ho",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/221922.jpg",
+      "pub_date": "2017-12-07",
+      "publictime": "2017-12-7",
+      "singer_id": 7015,
+      "singer_mid": "004ItgA32BhfdC",
+      "singer_name": "Sia",
+      "singerid": 7015,
+      "singermid": "004ItgA32BhfdC",
+      "singername": "Sia",
+      "singers": [{
+        "id": 7015,
+        "mid": "004ItgA32BhfdC",
+        "name": "Sia"
+      }],
+      "vid": "f0025xp6knb"
+    }, {
+      "listennum": 672048,
+      "mv_id": 1413617,
+      "mvdesc": "王源首支英文单曲MV上线！",
+      "mvscore": 0,
+      "mvtitle": "Sleep",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/f002513p08z_496_280/0",
+      "pub_date": "2017-12-07",
+      "publictime": "2017-12-7",
+      "singer_id": 161301,
+      "singer_mid": "000IBYF50SRnXP",
+      "singer_name": "王源",
+      "singerid": 161301,
+      "singermid": "000IBYF50SRnXP",
+      "singername": "王源",
+      "singers": [{
+        "id": 161301,
+        "mid": "000IBYF50SRnXP",
+        "name": "王源"
+      }],
+      "vid": "f002513p08z"
+    }, {
+      "listennum": 405148,
+      "mv_id": 1410863,
+      "mvdesc": "前卫抽象视觉展现不凡气质",
+      "mvscore": 0,
+      "mvtitle": "B.M.",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/i0025ytbii1_496_280/0",
+      "pub_date": "2017-12-06",
+      "publictime": "2017-12-6",
+      "singer_id": 180646,
+      "singer_mid": "002yeznU3VAVEV",
+      "singer_name": "吴亦凡",
+      "singerid": 180646,
+      "singermid": "002yeznU3VAVEV",
+      "singername": "吴亦凡",
+      "singers": [{
+        "id": 180646,
+        "mid": "002yeznU3VAVEV",
+        "name": "吴亦凡"
+      }],
+      "vid": "i0025ytbii1"
+    }, {
+      "listennum": 154709,
+      "mv_id": 1410964,
+      "mvdesc": "张惠妹把故事唱成歌还给你",
+      "mvscore": 0,
+      "mvtitle": "连名带姓",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/l0025ql5k4r_496_280/0",
+      "pub_date": "2017-12-06",
+      "publictime": "2017-12-6",
+      "singer_id": 141,
+      "singer_mid": "003JGrNQ3RjelA",
+      "singer_name": "张惠妹",
+      "singerid": 141,
+      "singermid": "003JGrNQ3RjelA",
+      "singername": "张惠妹",
+      "singers": [{
+        "id": 141,
+        "mid": "003JGrNQ3RjelA",
+        "name": "张惠妹"
+      }],
+      "vid": "l0025ql5k4r"
+    }, {
+      "listennum": 301158,
+      "mv_id": 1389059,
+      "mvdesc": "《寻梦环游记》原声欢快愉悦",
+      "mvscore": 0,
+      "mvtitle": "Remember Me (Dúo) (《寻梦环游记》电影主题曲)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/214542.jpg",
+      "pub_date": "2017-11-20",
+      "publictime": "2017-11-20",
+      "singer_id": 21559,
+      "singer_mid": "002hkau74SmJBr",
+      "singer_name": "Miguel",
+      "singerid": 21559,
+      "singermid": "002hkau74SmJBr",
+      "singername": "Miguel",
+      "singers": [{
+        "id": 21559,
+        "mid": "002hkau74SmJBr",
+        "name": "Miguel"
+      }, {
+        "id": 20535,
+        "mid": "0005rTot4YNdNz",
+        "name": "Natalia Lafourcade"
+      }],
+      "vid": "h0025eff8oa"
+    }, {
+      "listennum": 317407,
+      "mv_id": 1382215,
+      "mvdesc": "暗黑少女红贝贝，强势洗脑！",
+      "mvscore": 0,
+      "mvtitle": "피카부 (Peek-A-Boo)",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/q0025uk7q63_496_280/0",
+      "pub_date": "2017-11-17",
+      "publictime": "2017-11-17",
+      "singer_id": 283148,
+      "singer_mid": "004NfJdF0gn6Z1",
+      "singer_name": "Red Velvet",
+      "singerid": 283148,
+      "singermid": "004NfJdF0gn6Z1",
+      "singername": "Red Velvet",
+      "singers": [{
+        "id": 283148,
+        "mid": "004NfJdF0gn6Z1",
+        "name": "Red Velvet"
+      }],
+      "vid": "q0025uk7q63"
+    }, {
+      "listennum": 17496,
+      "mv_id": 1421116,
+      "mvdesc": "百大DJ连冠小马丁联手塔叔新单",
+      "mvscore": 0,
+      "mvtitle": "So Far Away",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/219122.jpg",
+      "pub_date": "2017-12-08",
+      "publictime": "2017-12-8",
+      "singer_id": 965,
+      "singer_mid": "000gELB619OfVG",
+      "singer_name": "David Guetta",
+      "singerid": 965,
+      "singermid": "000gELB619OfVG",
+      "singername": "David Guetta",
+      "singers": [{
+        "id": 965,
+        "mid": "000gELB619OfVG",
+        "name": "David Guetta"
+      }, {
+        "id": 160774,
+        "mid": "003gHa6S2vmcbq",
+        "name": "Martin Garrix"
+      }, {
+        "id": 2072147,
+        "mid": "003Yhhvl48r9XK",
+        "name": "Romy Dya"
+      }, {
+        "id": 12080,
+        "mid": "0011ykf12w4Hpl",
+        "name": "Jamie Scott"
+      }],
+      "vid": "u0025vde3ut"
+    }, {
+      "listennum": 67183,
+      "mv_id": 1413934,
+      "mvdesc": "SNH48国际小分队柔软抒情曲",
+      "mvscore": 0,
+      "mvtitle": "Like A Diamond",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/221524.jpg",
+      "pub_date": "2017-12-06",
+      "publictime": "2017-12-6",
+      "singer_id": 92117,
+      "singer_mid": "003BLxYj1Smxh4",
+      "singer_name": "SNH48",
+      "singerid": 92117,
+      "singermid": "003BLxYj1Smxh4",
+      "singername": "SNH48",
+      "singers": [{
+        "id": 92117,
+        "mid": "003BLxYj1Smxh4",
+        "name": "SNH48"
+      }],
+      "vid": "u0025behq6w"
+    }, {
+      "listennum": 56436,
+      "mv_id": 1418024,
+      "mvdesc": "张予曦大胆表白吓到邢昭林！",
+      "mvscore": 0,
+      "mvtitle": "勇敢爱 (TV版) (《无法拥抱的你》电视剧片头曲)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/222657.jpg",
+      "pub_date": "2017-11-19",
+      "publictime": "2017-11-19",
+      "singer_id": 90249,
+      "singer_mid": "002p9rzp4dQkHq",
+      "singer_name": "Mi2",
+      "singerid": 90249,
+      "singermid": "002p9rzp4dQkHq",
+      "singername": "Mi2",
+      "singers": [{
+        "id": 90249,
+        "mid": "002p9rzp4dQkHq",
+        "name": "Mi2"
+      }],
+      "vid": "e00251w3cjf"
+    }, {
+      "listennum": 55789,
+      "mv_id": 1417750,
+      "mvdesc": "你大卤肉这舞是真萌啊！",
+      "mvscore": 0,
+      "mvtitle": "Tip Toe",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/221926.jpg",
+      "pub_date": "2017-12-07",
+      "publictime": "2017-12-7",
+      "singer_id": 19921,
+      "singer_mid": "004TfAHg2stYrs",
+      "singer_name": "Jason Derulo",
+      "singerid": 19921,
+      "singermid": "004TfAHg2stYrs",
+      "singername": "Jason Derulo",
+      "singers": [{
+        "id": 19921,
+        "mid": "004TfAHg2stYrs",
+        "name": "Jason Derulo"
+      }, {
+        "id": 28014,
+        "mid": "002pZx9U1Zwpv8",
+        "name": "French Montana"
+      }],
+      "vid": "a0025r5aabk"
+    }, {
+      "listennum": 56026,
+      "mv_id": 1415030,
+      "mvdesc": "五月天贴心献上单身独享版",
+      "mvscore": 0,
+      "mvtitle": "终于结束的起点 (合体版)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/221509.jpg",
+      "pub_date": "2017-12-06",
+      "publictime": "2017-12-6",
+      "singer_id": 74,
+      "singer_mid": "000Sp0Bz4JXH0o",
+      "singer_name": "五月天",
+      "singerid": 74,
+      "singermid": "000Sp0Bz4JXH0o",
+      "singername": "五月天",
+      "singers": [{
+        "id": 74,
+        "mid": "000Sp0Bz4JXH0o",
+        "name": "五月天"
+      }],
+      "vid": "y0515g4qfbo"
+    }, {
+      "listennum": 107945,
+      "mv_id": 1412703,
+      "mvdesc": "容祖儿、韩寒合作电影主题曲",
+      "mvscore": 0,
+      "mvtitle": "重生 (《解忧杂货店》电影主题曲)",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/z0025lv7jds_496_280/0",
+      "pub_date": "2017-12-07",
+      "publictime": "2017-12-7",
+      "singer_id": 118,
+      "singer_mid": "001uXFgt1kpLyI",
+      "singer_name": "容祖儿",
+      "singerid": 118,
+      "singermid": "001uXFgt1kpLyI",
+      "singername": "容祖儿",
+      "singers": [{
+        "id": 118,
+        "mid": "001uXFgt1kpLyI",
+        "name": "容祖儿"
+      }],
+      "vid": "z0025lv7jds"
+    }, {
+      "listennum": 431907,
+      "mv_id": 1382006,
+      "mvdesc": "青春记忆里最温暖的那个人",
+      "mvscore": 0,
+      "mvtitle": "我的光 (《你好，旧时光》电视剧主题曲)",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/c0025ged7x3_496_280/0",
+      "pub_date": "2017-11-16",
+      "publictime": "2017-11-16",
+      "singer_id": 7131,
+      "singer_mid": "000tBtTl22ucCg",
+      "singer_name": "黄雅莉",
+      "singerid": 7131,
+      "singermid": "000tBtTl22ucCg",
+      "singername": "黄雅莉",
+      "singers": [{
+        "id": 7131,
+        "mid": "000tBtTl22ucCg",
+        "name": "黄雅莉"
+      }],
+      "vid": "c0025ged7x3"
+    }, {
+      "listennum": 316606,
+      "mv_id": 1394138,
+      "mvdesc": "林俊杰梦幻声线助阵爱情童话",
+      "mvscore": 0,
+      "mvtitle": "小瓶子 (《假如王子睡着了》电影印象曲)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_recommend_conf/217176.jpg",
+      "pub_date": "2017-11-28",
+      "publictime": "2017-11-28",
+      "singer_id": 4286,
+      "singer_mid": "001BLpXF2DyJe2",
+      "singer_name": "林俊杰",
+      "singerid": 4286,
+      "singermid": "001BLpXF2DyJe2",
+      "singername": "林俊杰",
+      "singers": [{
+        "id": 4286,
+        "mid": "001BLpXF2DyJe2",
+        "name": "林俊杰"
+      }],
+      "vid": "c00257c9jkm"
+    }, {
+      "listennum": 219390,
+      "mv_id": 1397383,
+      "mvdesc": "那英献唱节目《国家宝藏》",
+      "mvscore": 0,
+      "mvtitle": "一眼千年 (《国家宝藏》主题曲)",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/w00253b0r40_496_280/0",
+      "pub_date": "2017-11-30",
+      "publictime": "2017-11-30",
+      "singer_id": 137,
+      "singer_mid": "003LCFXH0eodXv",
+      "singer_name": "那英",
+      "singerid": 137,
+      "singermid": "003LCFXH0eodXv",
+      "singername": "那英",
+      "singers": [{
+        "id": 137,
+        "mid": "003LCFXH0eodXv",
+        "name": "那英"
+      }],
+      "vid": "w00253b0r40"
+    }, {
+      "listennum": 206902,
+      "mv_id": 1399005,
+      "mvdesc": "李宇春向现实挥出的一记猛拳",
+      "mvscore": 0,
+      "mvtitle": "一趟",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/v0025jht4bk_496_280/0",
+      "pub_date": "2017-12-01",
+      "publictime": "2017-12-1",
+      "singer_id": 4615,
+      "singer_mid": "002ZOuVm3Qn20Y",
+      "singer_name": "李宇春",
+      "singerid": 4615,
+      "singermid": "002ZOuVm3Qn20Y",
+      "singername": "李宇春",
+      "singers": [{
+        "id": 4615,
+        "mid": "002ZOuVm3Qn20Y",
+        "name": "李宇春"
+      }],
+      "vid": "v0025jht4bk"
+    }, {
+      "listennum": 83677,
+      "mv_id": 1412234,
+      "mvdesc": "EXO日文新曲短版MV，打call！",
+      "mvscore": 0,
+      "mvtitle": "Electric Kiss (短版Ver.1)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/221038.jpg",
+      "pub_date": "2017-12-05",
+      "publictime": "2017-12-5",
+      "singer_id": 38578,
+      "singer_mid": "001QVwtq3l8cKC",
+      "singer_name": "EXO",
+      "singerid": 38578,
+      "singermid": "001QVwtq3l8cKC",
+      "singername": "EXO",
+      "singers": [{
+        "id": 38578,
+        "mid": "001QVwtq3l8cKC",
+        "name": "EXO"
+      }],
+      "vid": "v002531zgh9"
+    }, {
+      "listennum": 102258,
+      "mv_id": 1411065,
+      "mvdesc": "BTS日文版“扔麦”酷炸！",
+      "mvscore": 0,
+      "mvtitle": "MIC Drop (日文版)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/221552.jpg",
+      "pub_date": "2017-12-05",
+      "publictime": "2017-12-5",
+      "singer_id": 162691,
+      "singer_mid": "001TpDgn4SxyJn",
+      "singer_name": "BTS",
+      "singerid": 162691,
+      "singermid": "001TpDgn4SxyJn",
+      "singername": "BTS",
+      "singers": [{
+        "id": 162691,
+        "mid": "001TpDgn4SxyJn",
+        "name": "BTS"
+      }],
+      "vid": "r0025fc03kr"
+    }, {
+      "listennum": 265191,
+      "mv_id": 1381732,
+      "mvdesc": "《烟花》里温暖动人的爱情故事",
+      "mvscore": 0,
+      "mvtitle": "Forever Friends (《烟花》电影插曲)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_recommend_conf/212701.jpg",
+      "pub_date": "2017-11-15",
+      "publictime": "2017-11-15",
+      "singer_id": 170650,
+      "singer_mid": "001nmqIV2nx5Hu",
+      "singer_name": "DAOKO",
+      "singerid": 170650,
+      "singermid": "001nmqIV2nx5Hu",
+      "singername": "DAOKO",
+      "singers": [{
+        "id": 170650,
+        "mid": "001nmqIV2nx5Hu",
+        "name": "DAOKO"
+      }],
+      "vid": "k0025cpm12x"
+    }, {
+      "listennum": 823019,
+      "mv_id": 1382141,
+      "mvdesc": "变身飞虎队员演绎限制級话题作",
+      "mvscore": 0,
+      "mvtitle": "戒烟",
+      "picurl": "http://puui.qpic.cn/qqvideo_ori/0/p0025rbpwso_496_280/0",
+      "pub_date": "2017-11-20",
+      "publictime": "2017-11-20",
+      "singer_id": 60505,
+      "singer_mid": "000aHmbL2aPXWH",
+      "singer_name": "李荣浩",
+      "singerid": 60505,
+      "singermid": "000aHmbL2aPXWH",
+      "singername": "李荣浩",
+      "singers": [{
+        "id": 60505,
+        "mid": "000aHmbL2aPXWH",
+        "name": "李荣浩"
+      }],
+      "vid": "p0025rbpwso"
+    }, {
+      "listennum": 300880,
+      "mv_id": 1385481,
+      "mvdesc": "Selena多造型出镜，性感撩人！",
+      "mvscore": 0,
+      "mvtitle": "Wolves",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/214225.gif",
+      "pub_date": "2017-11-18",
+      "publictime": "2017-11-18",
+      "singer_id": 43197,
+      "singer_mid": "0046fVNz3ruk2r",
+      "singer_name": "Selena Gomez",
+      "singerid": 43197,
+      "singermid": "0046fVNz3ruk2r",
+      "singername": "Selena Gomez",
+      "singers": [{
+        "id": 43197,
+        "mid": "0046fVNz3ruk2r",
+        "name": "Selena Gomez"
+      }, {
+        "id": 1104128,
+        "mid": "003T09nh37Pq4N",
+        "name": "Marshmello"
+      }],
+      "vid": "a0025v379s8"
+    }, {
+      "listennum": 29412,
+      "mv_id": 1413832,
+      "mvdesc": "徐浩诠释男女主青涩恋情",
+      "mvscore": 0,
+      "mvtitle": "两个人的恋爱 (《龙日一 , 你死定了》网剧主题曲)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/221940.jpg",
+      "pub_date": "2017-12-08",
+      "publictime": "2017-12-8",
+      "singer_id": 156053,
+      "singer_mid": "0010DrXn3I8Xp3",
+      "singer_name": "徐浩",
+      "singerid": 156053,
+      "singermid": "0010DrXn3I8Xp3",
+      "singername": "徐浩",
+      "singers": [{
+        "id": 156053,
+        "mid": "0010DrXn3I8Xp3",
+        "name": "徐浩"
+      }],
+      "vid": "l00253rpcuz"
+    }, {
+      "listennum": 35814,
+      "mv_id": 1425660,
+      "mvdesc": "诗诗首次献声电影诉说善恶因果",
+      "mvscore": 0,
+      "mvtitle": "何者般若 (《心理罪之城市之光》电影片尾主题曲)",
+      "picurl": "http://y.gtimg.cn/music/common/upload/uploadt_mv_recommend_conf/222385.jpg",
+      "pub_date": "2017-12-11",
+      "publictime": "2017-12-11",
+      "singer_id": 34658,
+      "singer_mid": "003swhIg2SVR2s",
+      "singer_name": "刘诗诗",
+      "singerid": 34658,
+      "singermid": "003swhIg2SVR2s",
+      "singername": "刘诗诗",
+      "singers": [{
+        "id": 34658,
+        "mid": "003swhIg2SVR2s",
+        "name": "刘诗诗"
+      }],
+      "vid": "x0025hkigmx"
+    }, {
+      "listennum": 26166,
+      "mv_id": 1418609,
+      "mvdesc": "回归最纯粹的柯氏音乐",
+      "mvscore": 0,
+      "mvtitle": "飞",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/222024.jpg",
+      "pub_date": "2017-12-09",
+      "publictime": "2017-12-9",
+      "singer_id": 4616,
+      "singer_mid": "00425Yk51z44H3",
+      "singer_name": "Alan柯有伦",
+      "singerid": 4616,
+      "singermid": "00425Yk51z44H3",
+      "singername": "Alan柯有伦",
+      "singers": [{
+        "id": 4616,
+        "mid": "00425Yk51z44H3",
+        "name": "Alan柯有伦"
+      }],
+      "vid": "t00252twoyh"
+    }, {
+      "listennum": 705,
+      "mv_id": 1425700,
+      "mvdesc": "暖暖的美景里绽放暖暖的笑",
+      "mvscore": 0,
+      "mvtitle": "守りたいもののために",
+      "picurl": "http://y.gtimg.cn/music/common/upload/t_mv_latest_rec/222653.jpg",
+      "pub_date": "2017-12-09",
+      "publictime": "2017-12-9",
+      "singer_id": 165598,
+      "singer_mid": "001nVA0T1sbuQ4",
+      "singer_name": "伊藤美来",
+      "singerid": 165598,
+      "singermid": "001nVA0T1sbuQ4",
+      "singername": "伊藤美来",
+      "singers": [{
+        "id": 165598,
+        "mid": "001nVA0T1sbuQ4",
+        "name": "伊藤美来"
+      }],
+      "vid": "i0025tbwofk"
+    }],
+    "name": "",
+    "sum": 50
+  }
+}
