@@ -38,7 +38,8 @@ module.exports = {
       'src': resolve('src'), //用resolve函数设置别名
       'common' : resolve('src/common'),
       'components' : resolve('src/components'),
-      'api': resolve('src/api')
+      'api': resolve('src/api'),
+      'base': resolve('src/base')
     }
   },
   module: {
